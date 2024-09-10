@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jeroen, I'm a Software Engineer from Belgium.
+My name is Jeroen, I'm a Software Engineer from Belgium 🇧🇪 living in Paris 🇫🇷 
 
 
 <!--
